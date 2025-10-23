@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Parser & Matcher",
+  "description": "An advanced recruitment tool that uses AI to parse resumes, store candidate data, and match them against job descriptions. Features include resume upload, data filtering, and CSV export.",
+  "requestFramePermissions": []
+}
